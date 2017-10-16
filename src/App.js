@@ -122,7 +122,8 @@ class App extends Component {
                 <Slide>
                     <h1>Julia Konivestska</h1>
                     <h2>“Light Speed Web with Progressive&nbsp;Web&nbsp;Apps”</h2>
-                    <p><a href="https://twitter.com/taurusJ_K">https://twitter.com/taurusJ_K</a></p>
+                    <p><a href="https://twitter.com/taurusJ_K">https://twitter.com/taurusJ_K</a><br/>
+                        <strong>Slides:</strong> <a href="http://taurusj.slides.com/taurusj/cssdevconf2017-10#/">available here</a></p>
                 </Slide>
 
                 <Slide>
@@ -133,7 +134,7 @@ class App extends Component {
                     <h1>Matt James</h1>
                     <h2>“Ride the Lightning (Making Fast Websites)”</h2>
                     <p><a href="http://mattjamesmedia.com/">http://mattjamesmedia.com/</a><br />
-                        <strong>Slides:</strong> <a href="https://glen-purchase.glitch.me/#/">available here.</a>
+                        <strong>Slides:</strong> <a href="https://glen-purchase.glitch.me/#/">available here</a>
                     </p>
                 </Slide>
 
